@@ -1,4 +1,4 @@
-# Avoin älykoti 2020
+# Avoimen ja kestävän älykotiratkaisun kokoaminen helpoksi paketiksi
 
 Vuonna 2020 muuttunut tilanne sai ihmiset viettämään enemmän aikaa kotona. Tekniikka kaikkine sen muotoineen valtaa kaikkia elämän osa-alueita ja pikkuhiljaa älyratkaisut valuvat myös koteihimme. Ihmiset haluavat kotiinsa älyä: joko järkiperustein, mukavuussyistä tai ihan juuri siksi, että voivat.
 
